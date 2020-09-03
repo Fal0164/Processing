@@ -60,7 +60,7 @@ class Circle {
   }
 
   void draw() {
-    stroke(0, 50, 120);
+    stroke(0, 20, 20);
     circle(x, y, r);
     if (r!=1200) {
       r+=10;
